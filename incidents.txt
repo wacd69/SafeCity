@@ -1,0 +1,5 @@
+Vasile Alecsandri Street|Non-functional streetlight
+Mihai Eminescu|Pothole
+Liviu Rebreanu|Car accident
+Liviu Rebreanu|Pothole
+Mihai Eminescu|Fallen Tree
